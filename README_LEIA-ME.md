@@ -74,7 +74,7 @@ Leituras geradas a cada segundo.
 📊 **Slides da apresentação:**  
 https://drive.google.com/drive/folders/10eJ1iVi4xAh6G02Evj40vIopw8VnmMsm
 
-📋 **Quadro do projeto no Trello:**  
+📋 **Quadro do projeto (Backlog) no Trello:**  
 https://trello.com/b/65WfSG1j/ind%C3%BAstria-40
 
 ---
@@ -82,3 +82,13 @@ https://trello.com/b/65WfSG1j/ind%C3%BAstria-40
 ## 👤 Autores
 
 Projeto desenvolvido em grupo no bootcamp **Generation Brasil – Análise de Dados**.
+
+Amanda dos Santos
+
+Caroline Henrique
+
+Edson Ricardo
+
+** Everton Alexandre da Silva Santos **
+
+Luana Andrade
